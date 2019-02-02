@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="what_needed" table="x_58872_needit_needit" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>what_needed</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Human Resources1</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-02 22:18:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>78da1dc7dbd32300c5b617803996195f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-02 22:18:48</sys_updated_on>
+            <value>human resources1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>what_needed</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Human resources2</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-02 22:18:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f4da1dc7dbd32300c5b6178039961961</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-02 22:18:48</sys_updated_on>
+            <value>human resources2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>what_needed</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Facilities1</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-02 22:18:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b0da1dc7dbd32300c5b6178039961963</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-02 22:18:48</sys_updated_on>
+            <value>facilities1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>what_needed</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Facilities2</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-02 22:18:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>70da1dc7dbd32300c5b61780399619fa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-02 22:18:48</sys_updated_on>
+            <value>facilities2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>what_needed</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Legal1</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-02 22:18:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3cda1dc7dbd32300c5b61780399619fb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-02 22:18:48</sys_updated_on>
+            <value>legal1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>what_needed</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Legal2</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-02 22:18:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f4da1dc7dbd32300c5b61780399619fd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-02 22:18:48</sys_updated_on>
+            <value>legal2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>what_needed</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Department1</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>6</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-02 22:18:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b0da1dc7dbd32300c5b61780399619ff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-02 22:18:48</sys_updated_on>
+            <value>department1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>what_needed</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Department2</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <sequence>7</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-02 22:18:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7cda5dc7dbd32300c5b6178039961900</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-02 22:18:48</sys_updated_on>
+            <value>department2</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>what_needed</element>
+            <name>x_58872_needit_needit</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-02 22:18:48</sys_created_on>
+            <sys_id>b0da1dc7dbd32300c5b6178039961960</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>what_needed</sys_name>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_choice_x_58872_needit_needit_what_needed</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-02 22:18:48</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
